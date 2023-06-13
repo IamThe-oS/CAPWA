@@ -1,10 +1,12 @@
 field,display_name,browse_link,external_link
 title,Title,
-creator,Creator,
-date,Date Created,
+sex,Sex,
+age,Age,
 description,Description,
+adopted,Adopted,
 subject,Subjects,true
 location,Location
+adoptionform,Adoption Form
 latitude,Latitude
 longitude,Longitude
 source,Source

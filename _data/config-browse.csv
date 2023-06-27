@@ -1,5 +1,15 @@
-field,display_name,btn,hidden,sort_name
-date,Date,,,Date
-creator,Creator,,,
-subject,,true
-location,,true
+field,display_name,browse_link,external_link
+title,Title,
+sex,Sex,
+age,Age,
+description,Description,
+adopted,Adopted,
+subject,Subjects,true
+location,Location
+adoptionform,Adoption Form
+latitude,Latitude
+longitude,Longitude
+source,Source
+identifier,Source Identifier,,
+type,Type,
+format,Format,

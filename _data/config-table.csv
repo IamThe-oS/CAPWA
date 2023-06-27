@@ -1,5 +1,7 @@
 field,display_name
 title,Title
-date,Date
+age,Age
+sex,Sex
+adopted,Adopted?
 description,Description
-subject,Subjects
+location,Location

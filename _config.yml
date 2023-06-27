@@ -20,14 +20,14 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CAPWA Adoption
+title: "CAPWA UP"
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Helping cats find a new home
+tagline: "Helping cats find a new home"
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "is a student organization that promotes animal welfare and safety. This website for CAPWA is a university adoption initiative that promotes cat welfare programs and connects families with loving homes to cats in need."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: LIS cuties
+author: "LIS cuties"
 
 ##########
 # COLLECTION SETTINGS

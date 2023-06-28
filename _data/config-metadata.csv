@@ -3,10 +3,10 @@ title,Title,
 sex,Sex,
 age,Age,
 description,Description,
-adopted,Adopted,
 subject,Subjects,true
 location,Location
-adoptionform,Adoption Form
+adopted,Adopted,
+adoptionform,Adoption Form,,true
 latitude,Latitude
 longitude,Longitude
 source,Source

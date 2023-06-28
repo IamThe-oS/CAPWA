@@ -6,11 +6,7 @@ description,Description,
 subject,Subjects,true
 location,Location
 adopted,Adopted,
-adoptionform,Adoption Form,,true
-latitude,Latitude
-longitude,Longitude
-source,Source
-identifier,Source Identifier,,
+adoptionform,ADOPT MEow,,true
 type,Type,
 format,Format,
 

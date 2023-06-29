@@ -28,6 +28,8 @@ Whether you're a student, faculty member, or staff at UP Diliman, we encourage y
 
 Thank you for visiting CAPWA UP, and together, let's make a positive impact on the lives of cats in need.
 
+---
+
 ### Mission
 
 The mission of the Organization shall be: CAPWA UP is committed to leading and implementing quality programs and projects within the University of the Philippines Diliman community that will improve the well-being of the campus animals and develop an attitude of compassion and responsibility towards them.

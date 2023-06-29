@@ -5,5 +5,5 @@ age,Age,
 description,Description,
 subject,Subjects,true
 location,Location
-adopted,Adopted,
+adopted,Adopted?,
 adoptionform,Adoption Form,,true

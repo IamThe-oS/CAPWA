@@ -16,9 +16,9 @@ credits: true
 
 Welcome to Community Animals Partners and Welfare Advocates (CAPWA) UP, the online platform dedicated to cat adoption at the University of the Philippines Diliman! We are a passionate and dedicated team of cat lovers and advocates who have come together to make a difference in the lives of our feline friends in UP Diliman.
 
-At CAPWA UP, our mission is to lead and implement quality programs and projects within the University of the Philippines Diliman community that will improve the well-being of campus animals and foster an attitude of compassion and responsibility towards them.
+At CAPWA UP, we lead and implement quality programs and projects within the University of the Philippines Diliman community that will improve the well-being of campus animals and foster an attitude of compassion and responsibility towards them.
 
-Our vision is for CAPWA UP to embody compassion and social responsibility by serving as a channel for community involvement in developing harmonious relationships between humans and animals in the University of the Philippines Diliman community. We aim to achieve this vision through education, advocacy in action, and a focus on animal welfare and humane animal management.
+We strive to embody compassion and social responsibility by serving as a channel for community involvement in developing harmonious relationships between humans and animals in the University of the Philippines Diliman community. We aim to achieve this vision through education, advocacy in action, and a focus on animal welfare and humane animal management.
 
 Our team is committed to ensuring the welfare of each cat in our care. We prioritize their health by subjecting them to a comprehensive evaluation and conducting a CBC (Complete Blood Count) to assess their overall well-being and suitability for adoption. Additionally, we actively promote responsible pet ownership and population control. To contribute to the well-being of cats and prevent unplanned litters, all cats available for adoption through CAPWA UP have been castrated.
 

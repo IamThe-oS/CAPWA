@@ -4,6 +4,20 @@
     <p class="card-text">{{ site.description }}</p>
     {%- assign about = site.data.config-nav | where: "stub","/about.html" | size -%}
     {% if about > 0 %}<a class="btn btn-outline-primary" href="{{ '/about.html' | relative_url }}" >Learn More &raquo;</a>{% endif %}
-    {% include feature/modal.html button="Meow!" title="Adopt Now!" text="<a href="https://forms.gle/yrk5XzX37z1Zmt9t9">Adoption Form</a>" color="primary"  %}
+
+    <div class="modal" tabindex="-1">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title">Adopt Now!</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p><a href="https://forms.gle/yrk5XzX37z1Zmt9t9">Adoption Form</a></p>
+          </div>
+        </div>
+      </div>
+    </div>
+
   </div>
 </div>

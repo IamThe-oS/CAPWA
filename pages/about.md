@@ -14,17 +14,25 @@ credits: true
 
 ## About CAPWA UP
 
-Welcome to Community Animals Partners and Welfare Advocates (CAPWA) UP, the online platform dedicated to cat adoption at the University of the Philippines Diliman! We are passionate and dedicated advocates of animal welfare who have come together to make a difference in the lives of our campus friends at UP Diliman.
+Welcome to Community Animals Partners and Welfare Advocates (CAPWA) UP, the online platform dedicated to cat adoption at the University of the Philippines Diliman! We are passionate and dedicated advocates of animal welfare who have come together to make a difference in the lives of our campus friends at UP Diliman
+
+Inspired by the mission and vision of CAPWA UP, a renowned organization in the University of the Philippines Diliman community, one of our group members, Aralyce Vienne Imbuido, who is associated with the organization, recognized the need for a centralized platform to facilitate cat adoption and promote the welfare of campus animals. Driven by our shared love for cats and our desire to create a healthy environment for them, our group consisting of the following members embarked on this project:
+‌
+
+- Aralyce Vienne Imbuido
+- ‌Theo Magpantay
+- ‌Alyssa Paga
+- ‌Katharine Villano
+
+The concept of cat adoption in UP Diliman was chosen to be the inspiration of this platform because of its significance and relevance within the university community. Cats often find themselves in vulnerable situations, and it is crucial to address their well-being and advocate for responsible pet ownership. By focusing on cat adoption, we aim to encourage respect for these animals among the students, faculty members, and staff at UP Diliman.
 
 At CAPWA UP, we lead and implement quality programs and projects within the University of the Philippines Diliman community that will improve the well-being of campus animals and foster an attitude of compassion and responsibility towards them. Aside from adoption, we implement Grand Kapon (for cats healthy enough to undergo the procedure), and Grand Pakaian for all the campus animals in all UP Diliman college units.
 
-We strive to embody compassion and social responsibility by serving as a channel for community involvement in developing harmonious relationships between humans and animals in the University of the Philippines Diliman community. We aim to achieve this vision through education, advocacy in action, and a focus on animal welfare and humane animal management.
+Our organization is committed to ensuring the welfare of each cat before and after spaying and neutering until they are adopted. We actively promote responsible pet ownership and population control. To contribute to the well-being of cats and prevent unplanned litter, all cats available for adoption through CAPWA UP have been castrated. Additionally, we prioritize their health by subjecting them to a comprehensive evaluation and conducting a CBC (Complete Blood Count) to assess their overall well-being and suitability for adoption.
 
-Our organization is committed to ensuring the welfare of each cat before and after spaying and neutering until they are adopted. We prioritize their health by subjecting them to a comprehensive evaluation and conducting a CBC (Complete Blood Count) to assess their overall well-being and suitability for adoption. Additionally, we actively promote responsible pet ownership and population control. To contribute to the well-being of cats and prevent unplanned litters, all cats available for adoption through CAPWA UP have been castrated.
+On our website, you will find a centralized platform where you can explore profiles of the cats available for adoption. Each profile provides detailed information such as the cat's name, age, color, personality traits, and location. Our goal is to provide transparency and assist you in finding a feline companion that aligns with your lifestyle and preferences.
 
-CAPWA UP offers a centralized platform where you can explore profiles of the cats available for adoption. Each profile provides information such as the cat's name, age, color, personality traits, and location. Our aim is to provide transparency and assist you in finding a feline companion that suits your lifestyle and preferences.
-
-Whether you're a student, faculty member, or staff at UP Diliman, we encourage you to explore our website and consider opening your heart and home to a furry companion. By adopting a cat, you not only gain a lifelong friend but also contribute to reducing the stray cat population and promoting a compassionate community.
+Whether you're a student, faculty member, or staff at UP Diliman, we invite you to explore our website and consider opening your heart and home to a furry companion. By adopting a cat, you not only gain a lifelong friend but also contribute to reducing the stray cat population and fostering a compassionate community.
 
 Thank you for visiting CAPWA UP, and together, let's make a positive impact on the lives of cats in need.
 

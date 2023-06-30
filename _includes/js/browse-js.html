@@ -15,6 +15,7 @@ var items = [
 function makeCard(obj) {
     // find item link
     var itemHref = "{{ '/item.html' | relative_url | append: '?id=' }}" + obj.id;
+    var updatingImg = '{{ "/assets/img/updating.jpg" }}'
     // find images
     var imgSrc, thumbSrc;
     // add images or thumb for objects based on format
@@ -35,7 +36,7 @@ function makeCard(obj) {
     var card = '<div class="item col-lg-4 col-md-6 col-sm-12 mb-2"><div class="card">';
     // top image for photos
     if(imgSrc) {
-        card += '<a href="' + itemHref + '"> <img class="card-img-top lazyload" data-src="' + imgSrc + '" alt="Image of ' + obj.title + '"></a>';
+        card += '<a href="' + {% if itemHref %} {{ itemHref }} {% else %} {{ updatingImg }} + '"> <img class="card-img-top lazyload" data-src="' + imgSrc + '" alt="Image of ' + obj.title + '"></a>';''
     }
     // title
     card += '<div class="card-body text-center"> <h4 class="card-title"><a href="' + itemHref + '" class="text-dark">' + obj.title + '</a></h4>';

@@ -1,4 +1,4 @@
-![image](https://github.com/IamThe-oS/CAPWA/assets/72619527/96188b81-d452-456b-b765-31495f5de7bd)---
+---
 title: About
 layout: about
 permalink: /about.html
